@@ -20,6 +20,7 @@ You don't need a computer science background to participate - just a little prog
 
 ## Links ##
 [Advent Of Code](https://adventofcode.com/)
+
 [AOC's Creator](http://was.tl/)
 
 ## Official Contributors ##
