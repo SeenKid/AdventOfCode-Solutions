@@ -4,11 +4,11 @@
     <strong>Advent of Code is an Advent calendar of small programming puzzles</strong>
   </p>
   <p style="margin-bottom: 0.5ex;">
-    <imgsrc="https://img.shields.io/github/downloads/SeenKid/AOC/total"/>
-    <imgsrc="https://img.shields.io/github/last-commit/AOC/OptiTimer"/>
-    <imgsrc="https://img.shields.io/github/issues/AOC/OptiTimer"/>
-    <imgsrc="https://img.shields.io/github/issues-closed/AOC/OptiTimer"/>
-    <imgsrc="https://img.shields.io/github/repo-size/AOC/OptiTimer"/>
+    <img src="https://img.shields.io/github/downloads/SeenKid/AOC/total"/>
+    <img src="https://img.shields.io/github/last-commit/AOC/OptiTimer"/>
+    <img src="https://img.shields.io/github/issues/AOC/OptiTimer"/>
+    <img src="https://img.shields.io/github/issues-closed/AOC/OptiTimer"/>
+    <img src="https://img.shields.io/github/repo-size/AOC/OptiTimer"/>
   </p>
 </div>
 
