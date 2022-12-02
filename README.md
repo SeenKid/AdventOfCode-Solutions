@@ -5,10 +5,10 @@
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img src="https://img.shields.io/github/downloads/SeenKid/AOC/total"/>
-    <img src="https://img.shields.io/github/last-commit/AOC/OptiTimer"/>
-    <img src="https://img.shields.io/github/issues/AOC/OptiTimer"/>
-    <img src="https://img.shields.io/github/issues-closed/AOC/OptiTimer"/>
-    <img src="https://img.shields.io/github/repo-size/AOC/OptiTimer"/>
+    <img src="https://img.shields.io/github/last-commit/AOC/AOC"/>
+    <img src="https://img.shields.io/github/issues/AOC/AOC"/>
+    <img src="https://img.shields.io/github/issues-closed/AOC/AOC"/>
+    <img src="https://img.shields.io/github/repo-size/AOC/AOC"/>
   </p>
 </div>
 
