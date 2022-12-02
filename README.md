@@ -3,13 +3,6 @@
   <p>
     <strong>Advent of Code is an Advent calendar of small programming puzzles</strong>
   </p>
-  <p style="margin-bottom: 0.5ex;">
-    <img src="https://img.shields.io/github/downloads/SeenKid/AOC/total"/>
-    <img src="https://img.shields.io/github/last-commit/AOC/AOC"/>
-    <img src="https://img.shields.io/github/issues/AOC/AOC"/>
-    <img src="https://img.shields.io/github/issues-closed/AOC/AOC"/>
-    <img src="https://img.shields.io/github/repo-size/AOC/AOC"/>
-  </p>
 </div>
 
 
