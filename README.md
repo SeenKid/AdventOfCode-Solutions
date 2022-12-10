@@ -32,6 +32,7 @@ You don't need a computer science background to participate - just a little prog
 ```
 Part 1 						 Part 2
 Day       Time    Rank  Score       Time    Rank  Score
+ 10   02:28:26   14464      0   02:28:46   11829      0
   9   01:35:26   11337      0   01:37:32    7099      0
   8   03:58:33   24960      0   03:58:40   19519      0
   7       >24h   67030      0       >24h   65049      0
