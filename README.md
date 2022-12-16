@@ -29,7 +29,7 @@ You don't need a computer science background to participate - just a little prog
   
   ## My personal stats  ##
   
-  <h1> 2022 </h1>
+  <h2> 2022 </h2>
 
 ```
 Part 1 						 Part 2
@@ -52,7 +52,7 @@ Day       Time    Rank  Score       Time    Rank  Score
   1       >24h  130395      0       >24h  126225      0
 ```
 
-<h1> 2021 </h1>
+<h2> 2021 </h2>
     
 ```
 Part 1 						 Part 2
