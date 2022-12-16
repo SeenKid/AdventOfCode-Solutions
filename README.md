@@ -29,7 +29,8 @@ You don't need a computer science background to participate - just a little prog
   
   ## My personal stats  ##
   
-    <h2><code>AOC 2022</code></h2>
+  <h1> 2022 </h1>
+
 ```
 Part 1 						 Part 2
 Day       Time    Rank  Score       Time    Rank  Score
@@ -51,7 +52,7 @@ Day       Time    Rank  Score       Time    Rank  Score
   1       >24h  130395      0       >24h  126225      0
 ```
 
-    <h2><code>AOC 2021</code></h2>
+<h1> 2021 </h1>
     
 ```
 Part 1 						 Part 2
