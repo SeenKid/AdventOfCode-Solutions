@@ -25,7 +25,7 @@ You don't need a computer science background to participate - just a little prog
   - appa#5965
   - ThatsNotLogical#8980
   - av🥑cado#0315
-  
+  - Boojum
   
   ## My personal stats  ##
   
@@ -34,6 +34,9 @@ You don't need a computer science background to participate - just a little prog
 ```
 Part 1 						 Part 2
 Day       Time    Rank  Score       Time    Rank  Score
+ 23   02:09:32    3196      0   02:09:39    2961      0
+ 22       >24h   13055      0       >24h    7476      0
+ 21       >24h   19229      0       >24h   16456      0
  20   01:53:31    2872      0   01:53:45    2362      0
  19   02:08:03    1304      0   02:08:13     847      0
  18       >24h   18493      0       >24h   14677      0
