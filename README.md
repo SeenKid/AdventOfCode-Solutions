@@ -37,6 +37,27 @@ Day       Time    Rank  Score       Time    Rank  Score
   1   03:09:29  27344      0   03:10:23  15906      0
 ```
 
+<h2> SJ Leaderboard as the date of today </h2>
+
+```
+ 1) 31 *  rtldg
+    31 *  (anonymous user #2503057)
+ 3) 28 *  Mix-Anik
+ 4) 26 *  lilac1337
+ 5) 23 *  SeenKid
+ 6) 12 *  dootsi
+ 7)  0 *  log-ical
+     0 *  (anonymous user #1543048)
+     0 *  polar
+     0 *  c-khenzy
+     0 *  Andrew 
+     0 *  (anonymous user #1702975)
+     0 *  (anonymous user #1760464)
+     0 *  zeltim
+     0 *  Appa
+     0 *  Ooglely
+```
+
   <h2> 2022 </h2>
 
 ```
@@ -68,16 +89,7 @@ Day       Time    Rank  Score       Time    Rank  Score
   1       >24h  130395      0       >24h  126225      0
 ```
 
-<h2> 2021 </h2>
-    
-```
-Part 1 						 Part 2
-Day       Time    Rank  Score       Time    Rank  Score
-  2       >24h  203018      0       >24h  194986      0
-  1       >24h  247052      0       >24h  218453      0
-```
-
-<h2> SJ Leaderboard as the date of today </h2>
+<h2> SJ Leaderboard the 25th december 2022 </h2>
 
 ```
  1) 645 ***********************  SeenKid (AoC++)
@@ -97,3 +109,13 @@ Day       Time    Rank  Score       Time    Rank  Score
 15)   0 ***********************  (anonymous user #1702975)
 16)   0 ***********************  (anonymous user #1760464)
 ```
+
+<h2> 2021 </h2>
+    
+```
+Part 1 						 Part 2
+Day       Time    Rank  Score       Time    Rank  Score
+  2       >24h  203018      0       >24h  194986      0
+  1       >24h  247052      0       >24h  218453      0
+```
+
