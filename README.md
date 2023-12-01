@@ -28,7 +28,15 @@ You don't need a computer science background to participate - just a little prog
   - Boojum
   
   ## My personal stats  ##
-  
+
+  <h2> 2023 </h2>
+
+```
+Part 1 						 Part 2
+Day       Time    Rank  Score       Time    Rank  Score
+  1   03:09:29  27344      0   03:10:23  15906      0
+```
+
   <h2> 2022 </h2>
 
 ```
