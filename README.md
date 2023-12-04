@@ -20,12 +20,13 @@ You don't need a computer science background to participate - just a little prog
  - SeenKid
  
  ## Helpers ##
-  - Zeltim#1337
-  - Ƹ̵̡Ӝ̵̨̄Ʒ#0001
-  - appa#5965
-  - ThatsNotLogical#8980
-  - av🥑cado#0315
+  - Zeltim
+  - Ƹ̵̡Ӝ̵̨̄Ʒ
+  - appa
+  - ThatsNotLogical
+  - .avo
   - Boojum
+  - nygyzy
   
   ## My personal stats  ##
 
@@ -34,6 +35,9 @@ You don't need a computer science background to participate - just a little prog
 ```
 Part 1 						 Part 2
 Day       Time    Rank  Score       Time    Rank  Score
+  4   02:24:11   22587      0   02:24:28   16370      0
+  3       >24h   80196      0       >24h   68927      0
+  2       >24h  121687      0       >24h  116764      0
   1   03:09:29  27344      0   03:10:23  15906      0
 ```
 
