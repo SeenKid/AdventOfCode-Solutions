@@ -44,22 +44,23 @@ Day       Time    Rank  Score       Time    Rank  Score
 <h2> SJ Leaderboard as the date of today </h2>
 
 ```
- 1) 31 *  rtldg
-    31 *  (anonymous user #2503057)
- 3) 28 *  Mix-Anik
- 4) 26 *  lilac1337
- 5) 23 *  SeenKid
- 6) 12 *  dootsi
- 7)  0 *  log-ical
-     0 *  (anonymous user #1543048)
-     0 *  polar
-     0 *  c-khenzy
-     0 *  Andrew 
-     0 *  (anonymous user #1702975)
-     0 *  (anonymous user #1760464)
-     0 *  zeltim
-     0 *  Appa
-     0 *  Ooglely
+ 1) 132 ****  rtldg
+    132 ****  (anonymous user #2503057)
+ 3) 106 ****  SeenKid
+ 4)  79 ****  zeltim
+ 5)  60 ****  (anonymous user #1702975)
+ 6)  58 ****  Mix-Anik
+ 7)  28 ****  lilac1337
+ 8)  24 ****  dootsi
+ 9)  23 ****  webli'
+10)   0 ****  log-ical
+      0 ****  (anonymous user #1543048)
+      0 ****  polar
+      0 ****  c-khenzy
+      0 ****  Andrew 
+      0 ****  (anonymous user #1760464)
+      0 ****  Appa
+      0 ****  Ooglely
 ```
 
   <h2> 2022 </h2>
